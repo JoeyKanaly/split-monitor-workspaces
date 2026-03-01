@@ -226,4 +226,6 @@ unbind = SUPER SHIFT, code:19
 ```
 
 # Special thanks
+- [@Duckonaut](https://github.com/Duckonaut/): The original creator of this plugin
 - [hyprsome](https://github.com/sopa0/hyprsome): An earlier project of similar nature
+
